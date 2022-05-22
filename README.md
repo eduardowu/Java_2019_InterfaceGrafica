@@ -2,9 +2,13 @@
 Interface (Jogo da velha) desenvolvida em Java, no componente curricular Programação II. Unicesumar - 2019/02
 
 ## Exercício proposto:
+
 [...]
+
 Neste trabalho, você deve desenvolver um jogo da velha, nos moldes do programa abaixo, usando 9 botões (além do reiniciar).
+
 [...]
+
 Use uma matriz 3x3 para guardar os dados do tabuleiro. Você pode guardar os dados no tipo que achar melhor (int, char, String, etc.).
 
 O botão reiniciar deve reiniciar a matriz e também os botões, que devem voltar a ficar sem texto e ativos.
